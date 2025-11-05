@@ -281,6 +281,9 @@ _(Sin contenido)_
 
 
 # Hoja: Arquitectura de referencia
+
+![arquitecturaReferencia.png](./docs/img/arquitecturaReferencia.png)
+
 [⬆ Volver al índice](#índice)
 
 
@@ -288,6 +291,9 @@ _(Sin contenido)_
 
 
 # Hoja: Arquetipo de referencia
+
+![arquetipoReferencia.png](./docs/img/arquetipoReferencia.png)
+
 [⬆ Volver al índice](#índice)
 
 
@@ -374,10 +380,16 @@ _(Sin contenido)_
 ---
 
 # Diagrama de Paquetes
+
+![DiagramadePaquetesTerraXs.png](./docs/img/DiagramadePaquetesTerraXs.png)
+
 [⬆ Volver al índice](#índice)
 
 
 # Hoja: Diagrama Paquetes
+
+![DiagramadePaquetesTerraXs.png](./docs/img/DiagramadePaquetesTerraXs.png)
+
 [⬆ Volver al índice](#índice)
 
 
@@ -475,6 +487,9 @@ _(Sin contenido)_
 ---
 
 # Hoja: Diagrama Paquetes Frontend
+
+![DiagramaPaquetesFrontendTerraXs.png](./docs/img/DiagramaPaquetesFrontendTerraXs.png)
+
 [⬆ Volver al índice](#índice)
 
 
@@ -515,6 +530,9 @@ _(Sin contenido)_
 [⬆ Volver al índice](#índice)
 
 # Hoja: Diagrama Componentes Backend
+
+![DiagramaComponentesBackend.png](./docs/img/DiagramaComponentesBackend.png)
+
 [⬆ Volver al índice](#índice)
 
 
@@ -612,6 +630,9 @@ _(Sin contenido)_
 ---
 
 # Hoja: Diagrama Componentes frontend
+
+![DiagramaComponentesFrontend.png](./docs/img/DiagramaComponentesFrontend.png)
+
 [⬆ Volver al índice](#índice)
 
 
@@ -660,10 +681,16 @@ _(Sin contenido)_
 
 
 # Diagrama de Secuencia:
+
+![DiagramaSecuencias.png](./docs/img/DiagramaSecuencias.png)
+
 [⬆ Volver al índice](#índice)
 
 
 # Hoja: Diagrama Secuencia
+
+![DiagramaSecuencias.png](./docs/img/DiagramaSecuencias.png)
+
 [⬆ Volver al índice](#índice)
 
 
@@ -704,34 +731,3 @@ _(Sin contenido)_
 ---
 
 
-
-
-## Diagramas
-
-### Arquetipo de Referencia
-
-![Arquetipo de Referencia](./docs/img/arquetipoReferencia.png)
-
-### Arquitectura de Referencia
-
-![Arquitectura de Referencia](./docs/img/arquitecturaReferencia.png)
-
-### Diagrama de Componentes - Backend
-
-![Diagrama de Componentes - Backend](./docs/img/DiagramaComponentesBackend.png)
-
-### Diagrama de Componentes - Frontend
-
-![Diagrama de Componentes - Frontend](./docs/img/DiagramaComponentesFrontend.png)
-
-### Diagrama de Paquetes TerraXs (Backend)
-
-![Diagrama de Paquetes TerraXs (Backend)](./docs/img/DiagramadePaquetesTerraXs.png)
-
-### Diagrama de Paquetes TerraXs (Frontend)
-
-![Diagrama de Paquetes TerraXs (Frontend)](./docs/img/DiagramaPaquetesFrontendTerraXs.png)
-
-### Diagrama de Secuencias - Registro de Usuario
-
-![Diagrama de Secuencias - Registro de Usuario](./docs/img/DiagramaSecuencias.png)
